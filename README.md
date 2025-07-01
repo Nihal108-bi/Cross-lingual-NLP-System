@@ -31,7 +31,7 @@ cross_lingual_nlp/
 ## 🛠️ Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cross_lingual_nlp.git
+git clone https://github.com/Nihal108-bi/Cross-lingual-NLP-System.git
 cd cross_lingual_nlp
 ```
 
@@ -140,7 +140,7 @@ sentencepiece
 ## 👤 Author
 - **Name:** Nihal Jaiswal
 - **Email:** nihaljaisawal1@gmail.com
-- **GitHub:** https://github.com/yourusername
+- **GitHub:** https://github.com/Nihal108-bi
 
 ---
 
